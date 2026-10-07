@@ -5,6 +5,13 @@ End-to-end Excel Sales Performance Dashboard featuring Pivot Tables, dynamic sli
 
 ##  Project Overview
 This project presents an interactive sales dashboard built in **Microsoft Excel** for **MISUO**. The primary goal is to analyze commercial performance, evaluate sales operations across digital channels and regions, and identify top and bottom-performing products [1, 2].
+## 📷 Project Preview
+
+### 🎨 Cover Page
+![MISUO Cover Page](MISU_COVER.PNG)
+
+### 📊 Interactive Sales Dashboard
+![MISUO Sales Dashboard](MISUODASHBOARD.PNG)
 
 ---
 
